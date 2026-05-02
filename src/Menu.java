@@ -10,10 +10,6 @@ import java.util.*;
         this.manager = manager;
         this.fileHandler = fileHandler;
 
-
-
-
-
       
 }
 public void start() {
@@ -63,11 +59,6 @@ public void start() {
             }
         }
     }
-
-
-
-
-
 
     
     

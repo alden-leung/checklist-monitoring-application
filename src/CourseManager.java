@@ -11,9 +11,9 @@ public class CourseManager {
 
     // Display subjects grouped by year then term
     public void showSubjectsPerTerm() {
-        System.out.println("----------");
+        System.out.println("-----------------------------");
         System.out.println("COURSE LIST BY YEAR AND TERM");
-        System.out.println("----------");
+        System.out.println("-----------------------------");
 
         // Sort by year then term
         courses.sort((a, b) -> {

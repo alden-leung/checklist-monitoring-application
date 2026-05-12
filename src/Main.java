@@ -1,9 +1,5 @@
 import java.util.*;
 
-// delete dis plis para lang ma commit ko -luk
-// take 2
-
-
     public static void main(String[] args) {
 
         // Create file handler

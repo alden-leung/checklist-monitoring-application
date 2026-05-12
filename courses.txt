@@ -1,4 +1,2 @@
-IT111,Intro to Computing,2.0,1st Year,1st Sem,Not yet taken
 IT112,Programming 1,2.0,1st Year,1st Sem,Not yet taken
 IT121,Info Systems,3.0,1st Year,2nd Sem,Not yet taken
-CS151,Tite,2.0,1st Year,2nd Sem,Not yet taken

@@ -159,7 +159,7 @@ public class Menu {
             }
         }
 
-        System.out.println("Year: <1> 1st Year <2> 2nd Year <3> 3rd Year <4> 4th Year <5> 5th Year");
+        System.out.print("Year: <1> 1st Year <2> 2nd Year <3> 3rd Year <4> 4th Year <5> 5th Year\n" + "Enter Year: ");
         String[] years = {"1st Year", "2nd Year", "3rd Year", "4th Year", "5th Year"};
         String year = "1st Year";
         try {
@@ -169,7 +169,7 @@ public class Menu {
             }
         } catch (Exception e) {}
 
-        System.out.println("Term: <1> 1st Sem <2> 2nd Sem");
+        System.out.print("Term: <1> 1st Sem <2> 2nd Sem\n" + "Enter Term: ");
         String term = "1st Sem";
         try {
             int tchoice = Integer.parseInt(sc.nextLine());

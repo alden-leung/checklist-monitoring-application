@@ -1,7 +1,7 @@
 import java.util.*;
 
-// Main class to run the application
-public class Main {
+// delete dis plis para lang ma commit ko -luk
+
 
     public static void main(String[] args) {
 
@@ -18,4 +18,3 @@ public class Main {
         Menu menu = new Menu(manager, fileHandler);
         menu.start();
     }
-}
